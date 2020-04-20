@@ -1,0 +1,30 @@
+{
+"cards": [
+{
+"title": "On Time Performance",
+"value": "75%",
+"offset": -10,
+},
+{
+"title": "Revenue",
+"value": "$5.08m",
+"offset": 4,
+},
+{
+"title": "% Margin",
+"value": "35%",
+"offset": -1,
+"reverse": true,
+},
+{
+"title": "Space Utilization",
+"value": "77%",
+"offset": -3,
+},
+{
+"title": "% Utilization",
+"value": "90%",
+"offset": -10,
+},
+]
+}
